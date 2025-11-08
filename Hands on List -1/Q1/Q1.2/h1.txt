@@ -1,5 +1,0 @@
-Hi there my name is Sonu Kumar Mahto.
-I'm student at IIITB persuing my MTech in CSE.
-
-So, here are some updates to test  Hardlink.
-Some more update after making hardlink using system call link().

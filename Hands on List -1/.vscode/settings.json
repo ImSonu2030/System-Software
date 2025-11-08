@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "x86intrin.h": "c",
-        "x86gprintrin.h": "c",
-        "unistd.h": "c",
-        "wait.h": "c"
-    }
-}
